@@ -37,7 +37,7 @@ Step 2 here
 
 If you have any questions about this project, please feel free to contact us.
 
-Stundet name 1 here - student@tsn.at<br>
+Student name 1 here - student@tsn.at<br>
 Student name 2 here - student@tsn.at<br>
 HTL Anichstraße - htlinn@tsn.at
 
