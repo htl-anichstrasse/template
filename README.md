@@ -41,4 +41,4 @@ Student name 1 here - student@tsn.at<br>
 Student name 2 here - student@tsn.at<br>
 HTL Anichstraße - htlinn@tsn.at
 
-<a href="https://htl-anichstrasse.tirol" target="_blank"><img src=".github/logo_background.png" width="180px"></a>
+<a href="https://htl-anichstrasse.tirol" target="_blank"><img src=".github/htl-anichstrasse-logo.svg" width="200px"></a>
